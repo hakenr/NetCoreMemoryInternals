@@ -21,6 +21,8 @@ namespace _01_StackHeap
 			Debugger.Break();
 			r = DoSomething(a, null);
 			Debugger.Break();
+
+			Console.ReadLine();
 		}
 
 		private static int DoSomething(int vstupniParametr, string druhyParametr)

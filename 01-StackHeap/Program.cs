@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace _01_StackHeap
+namespace Haken.StackHeap
 {
 	public class Program
 	{

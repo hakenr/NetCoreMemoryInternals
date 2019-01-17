@@ -3,8 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>_01_StackHeap</RootNamespace>
-    <LangVersion>latest</LangVersion>
+    <RootNamespace>_03_SimpleGarbageCollection</RootNamespace>
   </PropertyGroup>
 
 </Project>

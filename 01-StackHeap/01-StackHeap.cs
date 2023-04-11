@@ -10,7 +10,7 @@ namespace Haken.StackHeap
 			// lokální proměnné
 			int a = 0xAAAA;
 			bool b = true;
-			Int64 c = 0xCCCCCCCC;
+			UInt64 c = 0xCCCCCCCCCCCCCCCC;
 			for (int i = 0; i < 0xFF; i++)
 			{
 				MyClass instance = new MyClass(a); // instance třídy -> heap

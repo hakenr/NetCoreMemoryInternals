@@ -16,6 +16,7 @@ namespace Haken.StackHeap
 				MyClass instance = new MyClass(a); // instance třídy -> heap
 			}
 			int r;
+			string s = "Ahoj";
 
 			// volání metody
 			Debugger.Break();
